@@ -1,0 +1,6 @@
+{
+  "name": "Aruna Makeup Studio",
+  "description": "Luxury bridal makeup artist studio specializing in elevated, personalized wedding makeup, royal styling, and timeless bridal transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
